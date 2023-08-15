@@ -1,0 +1,44 @@
+.fixed-top{
+    position: sticky!important;
+}
+.blue-bg-rounded{
+    background-color: blue!important;
+    border-radius: 50%!important;
+}
+.size-title{
+    height: 50px;
+}
+.size-body{
+    height: 5rem;
+}
+.text-wrap{
+    word-wrap: break-word;
+}
+.quotes-container{
+    height: 10rem;
+}
+.quote-word{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+.lib-container{
+    width: 1000px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.title-blue{
+    color: blue;
+}
+.mt-img-booklist{
+    margin-top: 20px!important;
+}
+
+/* news */
+.img-news{
+    width: 50%;
+}
+div{
+    text-align: justify;
+}
+
